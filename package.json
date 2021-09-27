@@ -1,0 +1,21 @@
+{
+  "name": "serverless-dynamodb-outputs",
+  "version": "0.0.1",
+  "description": "Serverless Parameters --------------------- This plugin adds the possibility to add [CloudFormation dynamodb Raw Arn/Name outputs]",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "serverless": "2.x"
+  },
+  "engines": {
+    "node": ">=10.0"
+  },
+  "license": "MIT"
+}
